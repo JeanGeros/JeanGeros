@@ -11,11 +11,11 @@
 </p>
 <h3 align="left">🚀 Lenguajes y Frameworks:</h3
 <ul>
-  <li> <strong>Back-End:</strong> Python, Django </li>
+  <li> <strong>BackEnd:</strong> Python, Java (En Aprendizaje), Django </li>
   <li> <strong>Data Analysis/Machine Learning:</strong> Pandas, Numpy, Scikit-learn, Matplotlib </li>
-  <li> <strong>Front-End:</strong> Vue (En Aprendizaje) </li>
+  <li> <strong>FrontEnd:</strong> React (En Aprendizaje) </li>
   <li> <strong>Database:</strong> SQLServer, PostgreSQL </li>
-  <li> <strong> Cloud :</strong> AWS, Github Actions</li>
+  <li> <strong>Cloud :</strong> GCP, AWS ,AWS CI/CD</li>
   </ul>
 
 
